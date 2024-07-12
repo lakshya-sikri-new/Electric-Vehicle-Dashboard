@@ -1,4 +1,4 @@
-# Electric-Vehicle-Dashboard
+# Electric-Vehicle-Analysis
 
 # Overview
 The Excel Electric Vehicle Dashboard is a tool designed to provide insights into electric vehicles' performance, popularity, and eligibility for Clean Alternative Fuel Vehicle (CAFV) incentives. This README file serves as a guide to understanding the key features and functionalities of the dashboard.
